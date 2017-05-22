@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lingpipe"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/goldengine-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/GOLDEngine.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/antlr-4.4-complete.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

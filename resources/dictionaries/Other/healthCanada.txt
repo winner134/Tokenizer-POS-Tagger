@@ -1,0 +1,1122 @@
+2,4-Dinitrophenol
+4-Amino-pteroyl aspartic acid 
+4-Aminosalicylic Acid 
+4-Hydroxycoumarin  
+5-Aminosalicylic acid
+Abacavir 
+Abatacept
+Abciximab
+Abiraterone  
+Acamprosate 
+Acarbose 
+Acebutolol 
+Acetaminophen
+Acepromazine 
+Acetanilide
+Acetazolamide
+Acetohexamide
+Acetylcarbromal
+Acetylcholine Chloride
+Acitretin  
+Aclidinium 
+Aconiazide 
+Acyclovir 
+Adalimumab
+Adapalene  
+Adefovir  
+Adenosine  
+Adrenocortical hormones   
+Afatinib 
+Aflibercept
+Agalsidase alfa
+Aldesleukin
+Alefacept
+Alemtuzumab
+Alendronic acid 
+Alfacalcidol
+Alfuzosin 
+Alglucosidase alfa
+Aliskiren 
+Alitretinoin  
+Alkyl nitrites
+Allopurinol
+Allylisopropylacetylurea
+Almotriptan 
+Alogliptin  
+Alpha-chloralose
+Alphadolone 
+Alphaxalone
+Alteplase  
+Altrenogest
+Altretamine
+Amantadine 
+Ambenonium Chloride
+Ambrisentan
+Amifostine 
+Amikacin  
+Amiloride 
+Aminocaproic acid
+Aminoglutethimide
+Aminolevulinic acid  
+Aminophylline
+Aminopterin  
+Aminopyrine 
+Amiodarone  
+Amitraz
+Amitriptyline 
+Amlexanox  
+Amlodipine 
+Ammonium bromide
+Amoxapine
+Amphotericin B  
+Amprenavir  
+Amprolium 
+Amrinone 
+Amsacrine 
+Anagrelide 
+Anakinra  
+Anastrozole
+Ancestim
+Anidulafungin
+Antipyrine 
+Anti-thymocyte globulin
+Apixaban 
+Apraclonidine 
+Apramycin 
+Aprepitant 
+Aprotinin
+Argatroban  
+Aripiprazole 
+Arsenic trioxide
+Asenapine  
+Asparaginase  
+Astemizole 
+Atazanavir 
+Atenolol 
+Atipamezole 
+Atomoxetine 
+Atorvastatin 
+Atovaquone
+Atracurium besilate
+Atropine  
+Avermectin 
+Avilamycin  
+Axitinib  
+Azacitidine  
+Azacyclonol 
+Azaribine
+Azathioprine 
+Azatidine  
+Azelaic acid
+Azilsartan medoxomil   
+Azithromycin  
+Aztreonam 
+Baclofen 
+Bambuterol 
+Basiliximab
+Becaplermin
+Belimumab
+Bemegride
+Benactyzine 
+Benazepril  
+Bendamustine   
+Bendazac 
+Benoxaprofen 
+Benserazide 
+Benzoyl peroxide
+Benztropine 
+Benzydamine 
+Beractant
+Besifloxacin 
+Betahistine 
+Betaine  
+Betaxolol 
+Bethanechol chloride
+Bethanidine 
+Bevacizumab
+Bezafibrate  
+Bicalutamide
+Biperiden 
+Bishydroxycoumarin  
+Bisoprolol 
+Bitolterol 
+Bivalirudin
+Bleomycin
+Boceprevir 
+Bortezomib
+Bosentan  
+Botulinum toxin 
+Brentuximab Vedotin
+Bretylium tosylate
+Brimonidine 
+Bromal
+Bromal hydrate
+Brometone
+Bromisoval
+Bromocriptine 
+Bromoform
+Bumetanide  
+Bupropion 
+Buserelin 
+Buspirone 
+Busulfan
+Butaperazine 
+Butoconazole 
+Butyl chloral hydrate
+Cabergoline 
+Calcipotriol
+Calcitonin
+Calcitriol
+Calcium bromide
+Calcium bromolactobionate
+Calcium carbimide
+Calcium salts 
+Canakinumab
+Candesartan  
+Candicidin  
+Capreomycin  
+Captodiamine 
+Captopril 
+Carbachol
+Carbamazepine
+Carbenoxolone 
+Carbetocin 
+Carbidopa 
+Carbimazole
+Carbocisteine
+Carbomycin  
+Carboplatin
+Carbromal
+Carisoprodol
+Carmustine
+Carphenazine 
+Carprofen  
+Carvedilol 
+Caspofungin  
+Catumaxomab
+Celecoxib 
+Cephalosporin C
+Cerivastatin 
+Certolizumab pegol
+Cetrorelix 
+Cetuximab
+Chloral
+Chloral hydrate
+Chloralformamide
+Chloralimide
+Chlorambucil  
+Chloramphenicol  
+Chlorcyclizine  
+Chlorhexidine  
+Chlorisondamine 
+Chlormezanone
+Chloroquine 
+Chlorothiazide  
+Chlorpromazine 
+Chlorpropamide
+Chlorprothixene 
+Cholestyramine resin
+Choline salicylate 
+Choline theophyllinate
+Choriogonadotropin alfa
+Ciclopirox 
+Cilastatin 
+Cilazapril  
+Cimetidine   
+Cinacalcet 
+Cinchophene 
+Cinoxacin
+Ciprofloxacin 
+Cisapride 
+Cisatracurium besilate
+Cisplatin
+Citalopram 
+Cladribine  
+Clarithromycin  
+Clenbuterol 
+Clevidipine 
+Clindamycin  
+Clodronic acid 
+Clofarabine
+Clofibrate
+Clomiphene 
+Clomipramine 
+Clonidine 
+Clopidogrel 
+Clorazepic acid 
+Clotrimazole  
+Clozapine 
+Colchicine
+Colesevelam 
+Colestipol 
+Colfosceril 
+Colistin
+Collagenase
+Crizotinib  
+Cromoglicic acid  
+Cyclizine
+Cyclobenzaprine 
+Cyclopentolate  
+Cyclophosphamide
+Cycloserine
+Cyclosporine
+Cyproterone acetate
+Cytarabine 
+Dabigatran  
+Dabrafenib  
+Dacarbazine
+Daclizumab
+Dactinomycin
+Dalfopristin 
+Dalteparin 
+Danaparoid  
+Danazol
+Danofloxacin 
+Dantrolene 
+Dapiprazole 
+Daptomycin
+Darifenacin 
+Darunavir
+Dasatinib
+Daunorubicin 
+Debrisoquin 
+Deferasirox
+Deferoxamine 
+Degarelix  
+Delavirdine 
+Denosumab
+Deracoxib
+Deserpidine
+Desflurane
+Desipramine 
+Desmopressin 
+Desvenlafaxine  
+Detomidine 
+Dexrazoxane 
+Diazoxide 
+Dichloroacetic acid
+Diclofenac 
+Didanosine  
+Diethylbromacetamide
+Diethylcarbamazine 
+Diethylstibestrol  
+Difloxacin  
+Diflunisal 
+Digitalis lanata or its glycosides
+Digitalis purpurea or its glycosides
+Digoxin immune Fab
+Dihydrostreptomycin  
+Dihydrotachysterol
+Diiodohydroxyquin 
+Diltiazem 
+Dimercaprol
+Dimethyl sulfoxide
+Dimethylfumarate
+Diphenidol 
+Diphenylhydantoin
+Dipivefrin 
+Diprophylline 
+Dipyridamole
+Dirlotapide
+Dirithromycin
+Disopyramide 
+Disulfiram
+Dobutamine 
+Docetaxel 
+Dolasetron 
+Dolutegravir 
+Domperidone
+Donepezil 
+Dopamine  
+Dornase alfa
+Dorzolamide 
+Doxacurium chloride
+Doxapram
+Doxazosin 
+Doxepin 
+Doxercalciferol 
+Doxorubicin 
+Doxycycline    
+Doxylamine   
+Droperidol 
+Drotrecogin
+Duloxetine 
+Dutasteride
+Econazole 
+Ecothiophate 
+Ectylurea 
+Eculizumab
+Edrophonium chloride
+Efalizumab
+Efavirenz
+Efinaconazole
+Eflornithine  
+Eletriptan 
+Eltrombopag   
+Emamectin 
+Embutramide
+Emedastine 
+Emtricitabine
+Emylcamate
+Enalapril  
+Enflurane
+Enfuvirtide
+Enoxaparin 
+Enrofloxacin
+Entacapone
+Entecavir
+Enzalutamide
+Epirubicine 
+Eplerenone
+Eprosartan  
+Epsiprantel
+Eptifibatide 
+Ergot alkaloids 
+Eribulin   
+Erlotinib 
+Ertapenem 
+Erythromycin  
+Erythropoiesis stimulating  hormone
+Escitalopram 
+Esmolol 
+Esomeprazole 
+Estramustine 
+Etanercept
+Ethacrynic acid
+Ethambutol 
+Ethionamide 
+Ethomoxane 
+Ethotoin 
+Ethyl trichloramate
+Etidronic acid 
+Etodolac  
+Etoposide 
+Etravirine 
+Etretinate
+Etymemazine 
+Exemestane
+Exenatide 
+Ezetimibe
+Ezogabine  
+Famciclovir 
+Famotidine  
+Fampridine  
+Febuxostat  
+Felodipine 
+Fenfluramine 
+Fenofibrate
+Fenoprofen 
+Fenoterol 
+Fesoterodine  
+Fidaxomicin 
+Filgrastim
+Finasteride
+Fingolimod   
+Firocoxib
+Flavoxate 
+Flecainide 
+Fleroxacin  
+Floctafenine
+Florfenicol 
+Fluconazole 
+Flucytosine
+Fludarabine  
+Flunarizine 
+Flunixin  
+Fluorouracil 
+Fluoxetine 
+Flupentixol  
+Fluphenazine 
+Flurbiprofen 
+Fluspirilene
+Flutamide
+Fluvastatin  
+Fluvoxamine 
+Folic acid 
+Follicle stimulating hormone
+Fomepizole 
+Fondaparinux sodium
+Formestane 
+Formoterol 
+Foscarnet sodium
+Fosfomycin 
+Fosinopril 
+Fosphenytoin 
+Framycetin  
+Frovatriptan 
+Fulvestrant
+Furaltadone 
+Furazolidone 
+Furosemide
+Fusidic acid 
+Gabapentin  
+Galantamine  
+Gallamine triethiodide
+Gallium 
+Galsulfase
+Gamithromycin
+Ganciclovir 
+Ganirelix  
+Gatifloxacin  
+Gefitinib
+Gemcitabine 
+Gemfibrozil 
+Gemifloxacin 
+Gentamicin  
+Glatiramer 
+Gliclazide
+Glimepiride
+Glipizide
+Glyburide  
+Glycopyrronium bromide
+Gold    
+Golimumab
+Gonadorelin 
+Gonadotropin, chorionic
+Gonadotropins
+Goserelin 
+Granisetron 
+Grepafloxacin  
+Griseofulvin  
+Guanethidine 
+Guanfacine  
+Halofantrine 
+Haloperidol
+Halothane
+Hetastarch 
+Hexachlorophene 
+Hexacyclonate sodium
+Hexamethonium 
+Histrelin 
+Hydralazine 
+Hydroxocobalamin 
+Hydroxychloroquine 
+Hydroxyurea
+Hydroxyzine  
+Ibandronic acid 
+Ibafloxacin
+Ibuprofen  
+Ibutilide  
+Idarubicin 
+Idebenone
+Idoxuridine
+Idursulfase
+Ifosfamide
+Imatinib 
+Imidapril 
+Imiglucerase
+Imipenem  
+Imipramine 
+Imiquimod 
+Immunogenic substances
+Indacaterol   
+Indapamide 
+Indinavir 
+Indomethacin
+Infliximab
+Ingenol mebutate 
+Inhaled human insulin
+Inosiplex
+Interferon
+Iodochlorohydroxyquin 
+Ipilimumab
+Ipratropium 
+Iproniazid 
+Irbesartan 
+Irinotecan 
+Iron derivatives 
+Isocarboxazid 
+Isoflurane
+Isoniazid
+Isoproterenol
+Isoprenaline
+Isotretinoin 
+Isoxsuprine 
+Isradipine 
+Itraconazole 
+Ivacaftor 
+Kanamycin  
+Ketanserin 
+Ketoconazole  
+Ketoprofene 
+Ketorolac 
+Ketotifen 
+Labetalol 
+Lacosamide or its  derivatives
+Lactic acid  
+Lamivudine 
+Lamotrigine 
+Lanreotide 
+Lansoprazole 
+Lanthanum salts  
+Lapatinib 
+Laronidase
+Leflunomide  
+Lenalidomide
+Letrozole
+Leucovorin 
+Leuprolide 
+Levamisole 
+Levetiracetam
+Levobunolol 
+Levocabastine  
+Levocarnitine   
+Levodopa 
+Lidocaine
+Linaclotide  
+Linagliptin  
+Lincomycin  
+Linezolid 
+Liothyronine 
+Liraglutide 
+Lisinopril  
+Lithium 
+Lodoxamide  
+Lomefloxacin 
+Lomitapide 
+Lomustine
+Lopinavir
+Losartan 
+Losoxantrone 
+Lovastatin
+Loxapine 
+L-Tryptophan 
+Lumiracoxib
+Lurasidone 
+Lutropin alfa
+Macitentan 
+Magnesium glutamate hydrobromide
+Maprotiline 
+Maraviroc
+Marbofloxacin  
+Maropitant 
+Mebendazole
+Mecamylamine 
+Mechlorethamine 
+Meclizine  
+Meclofenamic acid 
+Medetomidine 
+Mefenamic acid 
+Mefloquine  
+Megestrol 
+Melanoma therapeutic vaccine
+Melarsomine   
+Meloxicam  
+Melphalan
+Memantine 
+Menotropins
+Mepacrine 
+Mepazine 
+Mephenoxalone
+Mephentermine 
+Mercaptopurine
+Meropenem  
+Mesna
+Mesoridazine 
+Metaldehyde
+Metformin  
+Methacholine chloride
+Methazolamide 
+Methimazole
+Methisazone
+Methoin
+Mephenytoin 
+Methotrexate 
+Methotrimeprazine 
+Methoxamine 
+Methoxsalen
+Methoxy polyethylene glycol-epoetin beta
+Methyldopa 
+Methylparafynol
+Methysergide  
+Metoclopramide
+Metolazone 
+Metomidate 
+Metopimazine 
+Metoprolol 
+Metronidazole
+Metyrapone 
+Mexiletine 
+Micafungin 
+Miconazole 
+Midodrine 
+Miglustat
+Milbemycin 
+Milrinone 
+Minoxidil 
+Mirabegron 
+Mirtazapine 
+Mitomycin 
+Mitotane 
+Mitoxantrone 
+Mitratapide
+Mivacurium chloride
+Moclobemide  
+Modafinil 
+Molgramostim
+Montelukast 
+Moxifloxacin  
+Muromonab-CD3
+Mycophenolic acid  
+Nabumetone
+Nadolol 
+Nadroparin 
+Nafarelin  
+Nalidixic acid
+Nalmefene 
+Naloxone 
+Naltrexone  
+Naproxen   
+Naratriptan 
+Natalizumab
+Nateglinide  
+Nebivolol  
+Nedocromil 
+Nefazodone 
+Nelarabine
+Nelfinavir 
+Neocinchophen 
+Neomycin  
+Neostigmine salts
+Nepafenac
+Nesiritide  
+Nevirapine 
+Nialamide 
+Nicarbazin
+Nicardipine 
+Nicotine 
+Nicotinic acid 
+Nifedipine
+Nilotinib 
+Nilutamide
+Nimodipine 
+Nitric oxide
+Nitrofurantoin 
+Nitroscanate
+Nizatidine  
+Nomifensine 
+Norfloxacin
+Nortriptyline 
+Novobiocin  
+Nylidrin 
+Nystatin  
+Ocriplasmin
+Octatropine methylbromide
+Octreotide
+Ofatumumab
+Ofloxacin 
+Olanzapine 
+Oleandomycin  
+Olmesartan  
+Olodaterol 
+Olopatadine 
+Olsalazine 
+Omalizumab
+Omeprazole 
+Ondansetron 
+Orbifloxacin  
+Orciprenaline
+Metaproterenol 
+Orlistat
+Ormetoprim 
+Ornidazole
+Oseltamivir 
+Oxaliplatin
+Oxanamide
+Oxaprozin  
+Oxcarbazepine
+Oxolinic acid 
+Oxprenolol 
+Oxybutynin 
+Oxyphenbutazone 
+Oxytocin
+Paclitaxel 
+Palifermin
+Paliperidone  
+Palivizumab
+Palonosetron  
+Pamidronic acid 
+Pancreatic extracts
+Pancreatin
+Pancrelipase
+Pancuronium 
+Panitumumab
+Pantoprazole 
+Paraldehyde
+Paramethadione
+Pargyline 
+Paricalcitol
+Paroxetine 
+Pasireotide 
+Pazopanib  
+Pegaptanib 
+Pegfilgrastim
+Pegvisomant
+Pemetrexed 
+Penciclovir 
+Penicillamine
+Penicillin    
+Pentamidine 
+Pentolinium tartrate
+Pentosan polysulfate 
+Pentostatin 
+Pentoxifylline 
+Perampanel
+Perflutren
+Pergolide 
+Pericyazine 
+Perindopril 
+Perphenazine 
+Pertuzumab
+Phacetoperane 
+Phenacemide
+Phenacetin
+Phenaglycodol
+Phenazopyridine 
+Phenelzine 
+Phenformin 
+Pheniprazine 
+Phenthoxate 
+Phentolamine 
+Phenylbutazone 
+Phenylephrine  
+Phenylindanedione 
+Phenylpropanolamine   
+Physostigmine salicylate 
+Pilocarpine 
+Pimecrolimus
+Pimobendan
+Pimozide
+Pinaverium bromide
+Pindolol 
+Pioglitazone 
+Pipecuronium bromide
+Piperacetazine 
+Piperilate 
+Pipobroman
+Pipotiazine 
+Pirbuterol 
+Pirenzepine 
+Pirfenidone 
+Pirlimycin 
+Piroxicam 
+Pizotyline 
+Plerixafor 
+Podophyllotoxin
+Polymyxin B    
+Polysulfated glycosaminoglycan
+Pomalidomide 
+Poractant alfa
+Porfimer 
+Posaconazole
+Potassium bromide
+Potassium Citrate
+Potassium para-aminobenzoate 
+Pralidoxime 
+Pramipexole 
+Prasugrel  
+Pravastatin 
+Praziquantel  
+Prazosin 
+Pregabalin  
+Prenylamine 
+Primaquine 
+Primidone
+Probenecid 
+Probucol
+Procainamide 
+Procarbazine 
+Procaterol 
+Prochlorperazine 
+Procyclidine 
+Prodilidine 
+Profenamine 
+Proguanil 
+Promazine 
+Propafenone 
+Propofol
+Propranolol 
+Prostaglandins  
+Prothipendyl hydrochloride
+Protirelin
+Protriptyline 
+Prucalopride  
+Pyrazinamide
+Pyridostigmine bromide
+Pyrimethamine 
+Quetiapine 
+Quinagolide 
+Quinapril  
+Quinine  
+Quinupristin 
+Rabeprazole 
+Raloxifene 
+Raltegravir 
+Raltitrexed  
+Ramipril  
+Ranibizumab
+Ranitidine  
+Rasagiline 
+Rasburicase
+Raubasine 
+Rauwolfia
+Regorafenib 
+Remestemcel-L
+Remoxipride 
+Repaglinide  
+Rescinnamine 
+Reserpine 
+Resocortol 
+Retapamulin
+Reviparin 
+Ribavirin
+Rifabutin 
+Rifampin  
+Rifaximin  
+Rilpivirine  
+Riluzole 
+Riociguat 
+Risedronic acid 
+Risperidone 
+Ritodrine 
+Ritonavir
+Rituximab
+Rivaroxaban
+Rivastigmine 
+Rizatriptan 
+Robenacoxib 
+Rocuronium bromide
+Rofecoxib
+Roflumilast  
+Romidepsin
+Romifidine 
+Romiplostim
+Ronidazole  
+Ropinirole 
+Rosiglitazone 
+Rosoxacin 
+Rosuvastatin 
+Rotigotine  
+Rufinamide 
+Ruxolitinib  
+Salbutamol 
+Salmeterol 
+Salsalate  
+Sapropterin  
+Saquinavir  
+Saralasin 
+Sargramostim
+Saxagliptin 
+Selegiline 
+Sermorelin 
+Sertraline 
+Sevelamer 
+Sevoflurane
+Sex hormones
+Sibutramine 
+Sildenafil 
+Silodosin  
+Simeprevir 
+Simvastatin
+Sirolimus 
+Sitagliptin 
+Sitaxentan 
+Sodium bromide
+Sodium fluoride 
+Sodium nitroprusside 
+Sodium polystyrene sulfonate
+Sofosbuvir
+Solifenacin 
+Somatostatin
+Somatrem
+Somatropin
+Sorafenib 
+Sotalol 
+Spectinomycin  
+Spinosyn A and D isoforms
+Spiramycin  
+Spironolactone
+Stavudine
+Stiripentol
+Streptomycin  
+Streptozocin
+Strontium bromide
+Succinimide   
+Sucralfate
+Sulconazole 
+Sulfinpyrazone 
+Sulindac 
+Sulphonamides
+Sulphones
+Sumatriptan 
+Sunitinib 
+Suprofen 
+Suxamethonium chloride
+Tacrolimus 
+Tadalafil 
+Tamoxifen 
+Tamsulosin 
+Tazarotene
+Tazobactam  
+Teflubenzuron
+Tegaserod 
+Telaprevir 
+Telbivudine
+Telithromycin  
+Telmisartan  
+Temozolomide 
+Teniposide
+Tenofovir  
+Tenoxicam 
+Tepoxalin 
+Terazosin 
+Terbinafine 
+Terbutaline 
+Terconazole 
+Terfenadine 
+Teriparatide 
+Terlipressin 
+Tesamorelin  
+Tetrabenazine 
+Tetracaine
+Tetracycline   
+Thalidomide
+Theophylline 
+Thiabendazole
+Thiethylperazine 
+Thiocarlide
+Thioguanine
+Thiopropazate 
+Thioproperazine 
+Thioridazine 
+Thiotepa
+Thiothixene 
+Thiouracil 
+Thyroid
+Thyrotropin alfa
+Thyroxin 
+Tiaprofenic acid 
+Ticagrelor 
+Ticlopidine 
+Tigecycline
+Tilmicosin 
+Tiludronic acid 
+Timolol 
+Tinidazole
+Tinzaparin 
+Tioconazole  
+Tiotropium bromide
+Tipranavir 
+Tirofiban  
+Tizanidine 
+Tobramycin  
+Tocainide 
+Toceranib 
+Tocilizumab
+Tofacitinib 
+Tolazamide
+Tolazoline 
+Tolbutamide
+Tolcapone
+Tolfenamic acid  
+Tolmetin 
+Tolterodine 
+Toltrazuril
+Tolvaptan 
+Topiramate
+Topotecan 
+Torasemide 
+Toremifene 
+Trabectedin  
+Tramadol 
+Trametinib
+Trandolapril  
+Tranexamic acid
+Tranylcypromine
+Trastuzumab
+Trastuzumab  emtansine
+Trazodone 
+Treosulfan
+Tretamine
+Tretinoin  
+Triamterene 
+Tricaine 
+Trifluoperazine 
+Triflupromazine 
+Trifluridine
+Trihexyphenidyl 
+Triiodothyropropionic acid
+Trilostane
+Trimebutine 
+Trimeprazine 
+Trimethadione
+Trimethaphan camsylate
+Trimethoprim 
+Trimetrexate 
+Trimipramine 
+Trioxsalen
+Triptorelin   
+Troglitazone
+Tropicamide  
+Trospium chloride
+Trovafloxacin  
+Tubocurarine chloride
+Tybamate
+Tylosin   
+Ulipristal  
+Umeclidinium  
+Uracil mustard 
+Uracil   
+Urokinase
+Ursodeoxycholic acid 
+Ustekinumab
+Valaciclovir 
+Valdecoxib 
+Valganciclovir  
+Valproic acid 
+Valrubicin 
+Valsartan  
+Vancomycin  
+Vandetanib  
+Vardenafil 
+Varenicline 
+Vasopressin 
+Vecuronium bromide
+Vedaprofen  
+Velaglucerase Alfa
+Vemurafenib  
+Venlafaxine 
+Verapamil 
+Veratrum album
+Veratrum viride
+Verteporfin  
+Vidarabine
+Vigabatrin  
+Vilanterol 
+Vinblastine 
+Vincristine 
+Vindesine 
+Vinorelbine 
+Viomycin  
+Virginiamycin  
+Vismodegib
+Vitamin A 
+Vitamin B12
+Vitamin D 
+Vitamin K
+Voriconazole
+Vorinostat
+Xanthinol nicotinate
+Xylazine 
+Yohimbine 
+Zafirlukast 
+Zalcitabine 
+Zanamivir  
+Zidovudine
+Ziprasidone 
+Zoledronic acid  
+Zolmitriptan 
+Zomepirac 
+Zopiclone 
+Zucapsaicin
+Zuclopenthixol

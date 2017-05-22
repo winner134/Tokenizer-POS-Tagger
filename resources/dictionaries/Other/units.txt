@@ -1,0 +1,39 @@
+mg
+low dose
+one unit
+500 units 
+cc 
+tab 
+tabs 
+tablet 
+tablets 
+caps 
+units
+unit
+mcg 
+puff 
+puffs 
+spray
+sprays 
+mEq 
+IU 
+OU 
+teaspoon 
+teaspoons 
+tablespoon 
+tablespoons 
+whiffs 
+gtt 
+capsule 
+capsules 
+sniff 
+sniffs 
+scoop 
+grain
+grains 
+g 
+gm 
+gms 
+gram 
+grams 
+meq

@@ -1,0 +1,43 @@
+q.h.s.
+q.4 h.
+b.i.d.
+QID
+daily
+t.i.d.
+as needed
+a day
+per day
+qd as per pch
+every day
+QHS 
+qd-bid 
+qd
+q.d.
+bid-tid 
+bid 
+tid-qid 
+tid
+prn
+p.r.n.
+qid 
+qod 
+q2hr 
+q4hr
+q4-6hr 
+q6hr 
+q8hr 
+q12hr 
+q24hr
+q.24 h.
+q.72 h.
+qwk 
+qod 
+qam 
+qpm 
+qhs 
+qmonth 
+q3hr 
+q4-6hr 
+twice daily once a week 
+[0-9]+ a day
+[0-9]+ per day
